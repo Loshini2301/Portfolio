@@ -295,17 +295,16 @@ img {
 
 
 ## OUTPUT
-<img width="1919" height="996" alt="image" src="<img width="1920" height="1080" alt="Screenshot 2025-12-01 134607" src="https://github.com/user-attachments/assets/9109d95e-d875-41f3-a045-4a06de1568a5" />
-" />
+<img width="1920" height="1080" alt="Screenshot 2025-12-01 134607" src="https://github.com/user-attachments/assets/9109d95e-d875-41f3-a045-4a06de1568a5" />
 
-<img width="1909" height="1000" alt="image" src="<img width="1920" height="1080" alt="Screenshot 2025-12-01 134615" src="https://github.com/user-attachments/assets/54192cf9-2385-434d-8522-9d5898b2dc61" />
-" />
 
-<img width="1915" height="999" alt="image" src="<img width="1920" height="1080" alt="Screenshot 2025-12-01 134622" src="https://github.com/user-attachments/assets/150203e7-5e2f-466b-a86d-5c0ec51a3787" />
-" />
+img width="1920" height="1080" alt="Screenshot 2025-12-01 134615" src="https://github.com/user-attachments/assets/54192cf9-2385-434d-8522-9d5898b2dc61" />
 
-<img width="1919" height="997" alt="image" src="<img width="1920" height="1080" alt="Screenshot 2025-12-01 134633" src="https://github.com/user-attachments/assets/0efca910-06b5-475f-a03a-2ad1e2396a17" />
-" />
+
+img width="1920" height="1080" alt="Screenshot 2025-12-01 134622" src="https://github.com/user-attachments/assets/150203e7-5e2f-466b-a86d-5c0ec51a3787" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-12-01 134633" src="https://github.com/user-attachments/assets/0efca910-06b5-475f-a03a-2ad1e2396a17" />
+
 
 ## RESULT
 The program for creating Portfolio using HTML and CSS is executed successfully.
